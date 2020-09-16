@@ -1,1 +1,2 @@
-# 2.-Prakses-kvalifik-cijas-uzdevums
+Sveiki. Mani sauc Artjoms. Es gribu kļūt par Front-end developer. Man ir maz pieredzes, tāpēc es vēlos to iegūt praksē. Man patīk rakstit kodus un macīties. Es ātri iemācos jaunu informāciju un jaunas tehnoloģijas. Es esmu students 4. kursa RTK.               
+Привет. Меня зовут Артём. Я хочу стать Frond-end developer. Опыта мало, поэтому хочу набрать его на практиках. Мне нравиться писать коды и учиться. Быстро усваиваю новую информацию и новые технологии. Я студент 4. курса RTK.
