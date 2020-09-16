@@ -1,0 +1,1 @@
+# 2.-Prakses-kvalifik-cijas-uzdevums
